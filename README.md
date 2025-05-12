@@ -9,7 +9,7 @@ At Fusion Connect, I led the design and implementation of interactive dashboards
 I bring a strong foundation in SQL querying, data storytelling, and business performance analysis, with a proven track record of enabling organizations to reduce churn, uncover upsell opportunities, and streamline workflows. I am continuously learning and adapting, committed to delivering data-driven strategies that support growth and improve customer outcomes.
 
 ## Resume 
-[Lily Elizabeth John - Data Analyst](https://github.com/LilyElizabethJohn/Data-Analyst-Portfolio/blob/main/Lily%20Elizabeth%20John%20-%20Data%20Analyst.pdf)
+[Lily Elizabeth John - Data Analyst](https://github.com/LilyElizabethJohn/Portfolio/blob/main/Lily%20Elizabeth%20John%20-%20Data%20Analyst.pdf)
 
 ## Certificates
 - Tableau Desktop Specialist - Certified in Jan 2021
